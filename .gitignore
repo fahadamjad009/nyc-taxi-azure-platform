@@ -2,14 +2,13 @@
 venv/
 __pycache__/
 *.pyc
-*.pyo
 .Python
 
-# Environment & credentials
+# Credentials
 .env
 .env.*
 
-# Raw data (large, re-ingestible from ADF)
+# Raw data
 data/raw/
 
 # OS
