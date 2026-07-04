@@ -18,6 +18,7 @@
 
 ## 📊 Live Dashboard
 
+https://nyc-taxi-azure-platform.streamlit.app/
 > Click the badge above to open the deployed app. No login required.
 
 Five analytical tabs powered by pre-aggregated Databricks outputs and a pre-trained XGBoost fare model:
