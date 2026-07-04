@@ -1,0 +1,21 @@
+﻿# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Environment & credentials
+.env
+.env.*
+
+# Raw data (large, re-ingestible from ADF)
+data/raw/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
